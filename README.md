@@ -1,4 +1,9 @@
-#Snake-Game
+# Snake-Game
+<br><br><br><br>
+
+##### Hey, it's Hindhu, your 2nd-year BTech friend! Welcome to github. Let's play and learn together!
+
+<br><br><br><br>
 # Snake Game Overview
 
 ## Objective
