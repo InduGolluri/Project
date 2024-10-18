@@ -1,9 +1,9 @@
 # Snake-Game
-<br><br><br><br>
+<br><br>
 
-##### Hey, it's Hindhu, your 2nd-year BTech friend! Welcome to github. Let's play and learn together!
+##### Hey, it's Hindhu, your 3nd-year BTech friend! Welcome to github. Let's play and learn together!
 
-<br><br><br><br>
+<br><br>
 # Snake Game Overview
 
 ## Objective
@@ -78,3 +78,11 @@ Before running the game, ensure you have the following installed:
    Navigate to the game directory and start the game. 
 
 You're all set to enjoy the Snake Game!
+
+-----------------------------------------------------------******------------------------------------------------------
+
+Run the script and have fun!
+
+Thank you!
+
+Developed by:Hindhu Golluri (Hindhu Golluri, GameHub)
