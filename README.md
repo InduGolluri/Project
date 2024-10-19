@@ -1,7 +1,7 @@
-# Snake-Game
-<br><br>
+# Snake-Gam
 
-##### Hey, it's Hindhu, your 3nd-year BTech friend! Welcome to github. Let's play and learn together!
+Hey there! I'm Hindhu, a third-year BTech student! 👩‍🎓 Welcome to my GitHub! I'm excited to share my projects, learn from each other, and explore the world of coding together. Let’s collaborate and create something amazing!
+Let's play and learn together!
 
 <br><br>
 # Snake Game Overview
