@@ -5,7 +5,7 @@ pygame.init()
 
 width,height=600,600
 game_screen = pygame.display.set_mode((width,height))
-pygame.display.set_caption("Grishma Snake Game")
+pygame.display.set_caption("Indu Snake Game")
 
 snake_x,snake_y = width/2, height/2
 change_x,change_y=0,0
